@@ -53,7 +53,7 @@ p {
     height: 200px;
 }
 
-.videos-secundarios img:houver{
+.videos-secundarios img:hover{
     opacity: 1.0;
     border: 1px solid yellow;
 }
